@@ -123,3 +123,12 @@ info: Microsoft.Hosting.Lifetime[14]
 Для остановки работы приложения вы можете использовать в терминале, который запустился вместе с программой, сочетание клавиш Ctrl+C или закрыть сам терминал или в Visual Studio 2022 нажать кнопку Stop в меню сверху
 
 </details>
+
+# Используемые технологии
+
+- ASP.NET 7
+- ASP.NET MVC
+- Entity Framework
+- MS SQL Server
+- AutoMapper
+- MediatR
